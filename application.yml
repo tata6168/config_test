@@ -8,4 +8,4 @@ eureka:
     prefer-ip-address: true
 spring:
   application:
-    name: config-client
+    name: client
